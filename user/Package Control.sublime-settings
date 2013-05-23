@@ -1,0 +1,16 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"Emmet",
+		"Guard",
+		"Haml",
+		"Package Control",
+		"SideBarEnhancements",
+		"Sublime-HTMLPrettify",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Syntax Highlighting for Sass",
+		"Theme - Soda"
+	]
+}

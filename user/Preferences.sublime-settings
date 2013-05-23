@@ -1,0 +1,37 @@
+{
+  "color_scheme": "Packages/User/Monokai Soda.tmTheme",
+  "command": "toggle_side_bar",
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "keys":
+  [
+    "ctrl+s"
+  ],
+  "soda_folder_icons": true,
+
+  "tab_size": 2,
+
+  // Set to "none" to turn off drawing white space, "selection" to draw only the
+  // white space within the selection, and "all" to draw all white space
+  "draw_white_space": "all",
+
+  // Set to true to insert spaces when tab is pressed
+  "translate_tabs_to_spaces": true,
+
+  // Set to true to removing trailing white space on save
+  "trim_trailing_white_space_on_save": true,
+
+  // Set to true to ensure the last line of the file ends in a newline
+  // character when saving
+  "ensure_newline_at_eof_on_save": true,
+
+  // By default, auto complete will commit the current completion on enter.
+  // This setting can be used to make it complete on tab instead.
+  // Completing on tab is generally a superior option, as it removes
+  // ambiguity between committing the completion and inserting a newline.
+  "auto_complete_commit_on_tab": true,
+
+  "theme": "Soda Light.sublime-theme"
+}
