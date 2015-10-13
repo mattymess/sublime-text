@@ -1,16 +1,28 @@
 {
+	"auto_upgrade_last_run": null,
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"Alignment",
-		"Emmet",
-		"Guard",
+		"AngularJS",
+		"AngularJS Snippets",
+		"Dotfiles Syntax Highlighting",
+		"Git",
+		"GitGutter",
 		"Haml",
+		"IndentGuides",
+		"Javascript Beautify",
+		"LineEndings",
+		"Nettuts+ Fetch",
 		"Package Control",
+		"Pretty JSON",
+		"SCSS",
+		"SFTP",
 		"SideBarEnhancements",
 		"Sublime-HTMLPrettify",
-		"SublimeCodeIntel",
-		"SublimeLinter",
-		"Syntax Highlighting for Sass",
-		"Theme - Soda"
+		"Syntax Highlighting for Sass"
 	]
 }

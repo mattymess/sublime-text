@@ -1,5 +1,3 @@
 [
-  { "keys": ["ctrl+s"], "command": "toggle_side_bar" },
-  { "keys": ["ctrl+alt+super+s"], "command": "expand_tabs" }
+	{ "keys": ["ctrl+s"], "command": "toggle_side_bar" }
 ]
-
